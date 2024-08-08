@@ -1,0 +1,1312 @@
+[
+  {
+    "place_id": "ChIJ4Qgv39FRqEcR-mblXvleONE",
+    "name": "WhyNot Kaffee",
+    "address": "Pohlstra\u00dfe 74, 10785 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      ]
+    },
+    "phone_number": "0163 1693022"
+  },
+  {
+    "place_id": "ChIJL4gM5QRSqEcRv8bnVEXOmIM",
+    "name": "UNSER CAF\u00c9",
+    "address": "D\u00e4nenstra\u00dfe 14, 10439 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      ]
+    },
+    "phone_number": "030 34394518"
+  },
+  {
+    "place_id": "ChIJ71hzWjROqEcR4ddHKx8tfWg",
+    "name": "Caf\u00e9 Jenseits",
+    "address": "Oranienstra\u00dfe 16, 10999 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Tuesday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Wednesday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Thursday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Friday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+      ]
+    },
+    "phone_number": "030 33939513"
+  },
+  {
+    "place_id": "ChIJp-8DG1ZFqEcRlxdUyPvagug",
+    "name": "Kaffeeschwestern Cafe",
+    "address": "Friedrich-Wilhelm-Stra\u00dfe 83, 12099 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "phone_number": "030 23932065"
+  },
+  {
+    "place_id": "ChIJkbVtKsRRqEcRSRSdGWV-QDU",
+    "name": "NoLe Caf\u00e9",
+    "address": "Sprengelstra\u00dfe 40, 13353 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Sunday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      ]
+    },
+    "phone_number": "01523 7254385"
+  },
+  {
+    "place_id": "ChIJae75psRNqEcRUGZvc6gjIJ4",
+    "name": "Caf\u00e9 - Bistro happa-happa Berlin",
+    "address": "Smetanastra\u00dfe 17, 13088 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: 12:00\u2009\u2013\u20096:00\u202fPM"
+      ]
+    },
+    "phone_number": "030 29045225"
+  },
+  {
+    "place_id": "ChIJ350lERZRqEcRN-cVuiPypsk",
+    "name": "Bellas Caf\u00e9",
+    "address": "Torstra\u00dfe 207, 10115 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "phone_number": "0176 30502891"
+  },
+  {
+    "place_id": "ChIJxV6F-rdPqEcRe54duF-mKmk",
+    "name": "Caf\u00e9 B\u00e4ckerei Bonjour",
+    "address": "Hasenheide 10, 10967 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "phone_number": "030 47396982"
+  },
+  {
+    "place_id": "ChIJZ-mfs_FRqEcRcsGXh23NGnI",
+    "name": "The Rabbit Caf\u00e9",
+    "address": "Strelitzer Str. 62, 10115 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      ]
+    },
+    "phone_number": "030 44032823"
+  },
+  {
+    "place_id": "ChIJqUR34iVQqEcRVVpZsDlOCTc",
+    "name": "Caf\u00e9 SAZ",
+    "address": "Kreuzbergstra\u00dfe 10, 10965 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      ]
+    },
+    "phone_number": "0179 9153229"
+  },
+  {
+    "place_id": "ChIJzQBl11BFqEcR1FYpcgefo7o",
+    "name": "Cafe Ullstein",
+    "address": "Ullsteinstra\u00dfe 141A, 12109 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+      ]
+    },
+    "phone_number": "030 28030610"
+  },
+  {
+    "place_id": "ChIJ58NMcDNPqEcRPV4hiGgNSkU",
+    "name": "Caf\u00e8 Nook Berlin",
+    "address": "Hans-Otto-Stra\u00dfe 6, 10407 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 9:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 9:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 9:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      ]
+    },
+    "phone_number": "030 54633935"
+  },
+  {
+    "place_id": "ChIJkfiDF70jZUERFkryON6GCnM",
+    "name": "1900 Cafe Bistro - Berlin",
+    "address": "Knesebeckstra\u00dfe 76, 10623 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      ]
+    },
+    "phone_number": "030 88715871"
+  },
+  {
+    "place_id": "ChIJ0Qq7iH1QqEcRtGcHnH32d3E",
+    "name": "wild caff\u00e8",
+    "address": "S\u00fcdwestkorso 63, 12161 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Sunday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      ]
+    },
+    "phone_number": "030 48822648"
+  },
+  {
+    "place_id": "ChIJF_IJEMlRqEcRstXKnn9KHyI",
+    "name": "Schiller Deli",
+    "address": "Inge Beisheim Platz 2, 10785 Berlin, Germany",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Sunday: Closed"
+      ]
+    },
+    "phone_number": "030 25792392"
+  }
+]
